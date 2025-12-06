@@ -107,7 +107,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["fly.appendata.cn"];
-pub const RS_PUB_KEY: &str = "onlybeControlFormater_jiyuan";
+pub const RS_PUB_KEY: &str = "onlybeControlFormaterjiyuan";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
